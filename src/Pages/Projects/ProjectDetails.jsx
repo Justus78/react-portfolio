@@ -29,9 +29,9 @@ const ProjectDetails = () => {
           </div>
 
           <div className="d-inline-block bg-light">
-            <img src={project.image1} alt="" className='img-fluid mb-3 me-3' height="500px" width="700px"/>
-            <img src={project.image2} alt="" className='img-fluid mb-3 me-3' height="500px" width="700px"/>
-            <img src={project.image3} alt="" className='img-fluid mb-3 me-3' height="500px" width="700px"/>
+            <img src={`/react-portfolio/${project.image1}`} alt="" className='img-fluid mb-3 me-3' height="500px" width="700px"/>
+            <img src={`/react-portfolio/${project.image2}`} alt="" className='img-fluid mb-3 me-3' height="500px" width="700px"/>
+            <img src={`/react-portfolio/${project.image3}`} alt="" className='img-fluid mb-3 me-3' height="500px" width="700px"/>
           </div>
         </div>
       </div>
