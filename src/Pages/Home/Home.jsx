@@ -30,11 +30,11 @@ const Home = () => {
 
             {projectsData.map((project) => (
 
-              <div key={`react-portfolio/${project.id}`} className="col">
+              <div key={project.id} className="col">
                 <div className="card shadow-sm">
                   {
                   project.image1 ?
-                    <img src={project.image2} className="card-img-top" width="100%" height="225" alt={project.title} />
+                    <img src={`react-portfolio/${project.image2}`} className="card-img-top" width="100%" height="225" alt={project.title} />
                   :
                     <p>no image found</p>
                   }
