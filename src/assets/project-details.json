@@ -3,7 +3,7 @@
         "id": "scryfall",
         "title": "Random MTG Card Generator with Scryfall API",
         "image1": "../../public/ScryfallAPI/Scryfall1.jpg",
-        "image2": "../../public/ScryfallAPI/Scryfall2.jpg",
+        "image2": "/dist/ScryfallAPI/Scryfall2.jpg",
         "image3": "../../public/ScryfallAPI/Scryfall3.jpg",
         "description": "This web app allows the user to find a random card from the Magic the Gathering card game. The app uses Scryfall API to fetch the card data and displays it on the screen.",
         "tools": [
