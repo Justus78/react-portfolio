@@ -2,9 +2,9 @@
     {
         "id": "scryfall",
         "title": "Random MTG Card Generator with Scryfall API",
-        "image1": "/assets/ScryfallAPI/Scryfall1.jpg",
-        "image2": "/assets/ScryfallAPI/Scryfall2.jpg",
-        "image3": "/assets/ScryfallAPI/Scryfall3.jpg",
+        "image1": "/ScryfallAPI/Scryfall1.jpg",
+        "image2": "/ScryfallAPI/Scryfall2.jpg",
+        "image3": "/ScryfallAPI/Scryfall3.jpg",
         "description": "This web app allows the user to find a random card from the Magic the Gathering card game. The app uses Scryfall API to fetch the card data and displays it on the screen.",
         "tools": [
             "C#",
@@ -17,9 +17,9 @@
     {
         "id": "mtgApp",
         "title": "Magic the Gathering Web application",
-        "image1": "/assets/Mtg-App/Mtg-app1.jpg",
-        "image2": "/assets/Mtg-App/Mtg-app2.jpg",
-        "image3": "/assets/Mtg-App/Mtg-app3.jpg",
+        "image1": "/Mtg-App/Mtg-app1.jpg",
+        "image2": "/Mtg-App/Mtg-app2.jpg",
+        "image3": "/Mtg-App/Mtg-app3.jpg",
         "description": "This app allows users to create a personal database of their Magic the Gathering cards. Users can enter card information via a form, add them to the database, and edit or delete cards from their collection. The app also provides information about the game, including formats, rules, and where to play.",
         "tools": [
             "C#",
@@ -34,9 +34,9 @@
     {
         "id": "greenevilleWalks",
         "title": "Greeneville Walks website",
-        "image1": "/assets/Greeneville-Walks/gw1.jpg",
-        "image2": "/assets/Greeneville-Walks/gw2.jpg",
-        "image3": "/assets/Greeneville-Walks/gw3.jpg",
+        "image1": "/Greeneville-Walks/gw1.jpg",
+        "image2": "/Greeneville-Walks/gw2.jpg",
+        "image3": "/Greeneville-Walks/gw3.jpg",
         "description": "This website was a school project for Dr. Griffin at Walter State Community College. The main purpose of the site was to showcase student's work in Botany in the WSCC Herbarium and Symposium. The website also provides information about common trees and shrubs found around the walking trails in Greeneville Tennessee.",
         "tools": [
             "HTML",
@@ -47,9 +47,9 @@
     {
         "id": "textAnalyzer",
         "title": "Text Analyzer GUI",
-        "image1": "/assets/Text-Analyzer/textAnalyzer1.jpg",
-        "image2": "/assets/Text-Analyzer/textAnalyzer2.jpg",
-        "image3": "/assets/Text-Analyzer/textAnalyzer3.jpg",
+        "image1": "/Text-Analyzer/textAnalyzer1.jpg",
+        "image2": "/Text-Analyzer/textAnalyzer2.jpg",
+        "image3": "/Text-Analyzer/textAnalyzer3.jpg",
         "description": "This app allows users to analyze text to get the number of words, sentences, and unique words that are within the text. The user can type, paste in, or read text from a text file into the analyzer. The app provides the stats and gives the user a way to filter through the stats with a search bar. Users can choose between light, dark, and dark knight mode.",
         "tools": [
             "C#",
@@ -60,9 +60,9 @@
     {
         "id": "softballStats",
         "title": "Softball Stats Web App",
-        "image1": "/assets/Softball-Stats/SoftballStats1.jpg",
-        "image2": "/assets/Softball-Stats/SoftballStats2.jpg",
-        "image3": "/assets/Softball-Stats/SoftballStats3.jpg",
+        "image1": "/Softball-Stats/SoftballStats1.jpg",
+        "image2": "/Softball-Stats/SoftballStats2.jpg",
+        "image3": "/Softball-Stats/SoftballStats3.jpg",
         "description": "Coming Soon",
         "tools": [
             "Coming Soon"
