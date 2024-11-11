@@ -34,7 +34,7 @@ const Home = () => {
                 <div className="card shadow-sm">
                   {
                   project.image1 ?
-                    <img src={project.image2} className="card-img-top" width="100%" height="225" alt={project.title} />
+                    <img src={`${process.env.PUBLIC_URL}${project.image2}`} className="card-img-top" width="100%" height="225" alt={project.title} />
                   :
                     <p>no image found</p>
                   }
