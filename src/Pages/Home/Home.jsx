@@ -30,7 +30,7 @@ const Home = () => {
 
             {projectsData.map((project) => (
 
-              <div key={project.id} className="col">
+              <div key={`react-portfolio/${project.id}`} className="col">
                 <div className="card shadow-sm">
                   {
                   project.image1 ?
