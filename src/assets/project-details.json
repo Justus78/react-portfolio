@@ -1,5 +1,51 @@
 [
     {
+        "id": "netflixCLone",
+        "title": "Netflix Clone Website",
+        "image1": "/netflix-clone/netflix1.jpg",
+        "image2": "/netflix-clone/netflix2.jpg",
+        "image3": "/netflix-clone/netflix3.jpg",
+        "description": "A website that uses data from the The Movie Database API to create a clone of Netflix. The app uses Google Firebase to handle users allowing for signing up and logging in. ",
+        "tools": [
+            "React",
+            "Google Firebase",
+            "The Movie Database API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "geminiClone",
+        "title": "Google Gemini clone",
+        "image1": "/gemini-clone/gc1.jpg",
+        "image2": "/gemini-clone/gc2.jpg",
+        "image3": "/gemini-clone/gc3.jpg",
+        "description": "A website that mimics the appearance and functionality of the Google Gemini AI. The site uses the Google Gemini API to get responses for the user and uses state to keep track of the prompts.",
+        "tools": [
+            "React",
+            "Google Gemini API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "reactJobs",
+        "title": "React Job Website",
+        "image1": "/react-job-site/react-job1.jpg",
+        "image2": "/react-job-site/react-job2.jpg",
+        "image3": "/react-job-site/react-job3.jpg",
+        "description": "A mock website that acts as a job board for React developer jobs. Uses JSON Server as a mock backend to fetch data about jobs. Has all CRUD functionality for adding, updating, and deleting jobs.",
+        "tools": [
+            "C#",
+            "ASP .NET MVC",
+            "HTML",
+            "Bootstrap/CSS",
+            "Scryfall API"
+        ]
+    },
+    {
         "id": "scryfall",
         "title": "Random MTG Card Generator with Scryfall API",
         "image1": "/ScryfallAPI/Scryfall1.jpg",
