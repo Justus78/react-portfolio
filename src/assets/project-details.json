@@ -1,5 +1,21 @@
 [
     {
+        "id": "finsharkAPI",
+        "title": "FinShark Api",
+        "image1": "/FinShark/finshark1.jpg",
+        "image2": "/FinShark/finshark1.jpg",
+        "image3": "/FinShark/finshark1.jpg",
+        "description": "A Web App that uses stock information from Financial Modeling Prep API that allows users to keep track of their stock portfolio and see information about each company. ",
+        "tools": [
+            "React",
+            "C# .NET API",
+            "Financial Modeling Prep API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
         "id": "netflixCLone",
         "title": "Netflix Clone Website",
         "image1": "/netflix-clone/netflix1.jpg",
