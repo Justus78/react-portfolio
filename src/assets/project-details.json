@@ -3,8 +3,8 @@
         "id": "finsharkAPI",
         "title": "FinShark Api",
         "image1": "/FinShark/finshark1.jpg",
-        "image2": "/FinShark/finshark1.jpg",
-        "image3": "/FinShark/finshark1.jpg",
+        "image2": "/FinShark/finshark2.jpg",
+        "image3": "/FinShark/finshark3.jpg",
         "description": "A Web App that uses stock information from Financial Modeling Prep API that allows users to keep track of their stock portfolio and see information about each company. ",
         "tools": [
             "React",
