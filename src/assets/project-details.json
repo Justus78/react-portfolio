@@ -1,5 +1,20 @@
 [
     {
+        "id": "softballStats",
+        "title": "Softball Stats Web App",
+        "image1": "/Softball-Stats/SoftballStats1.jpg",
+        "image2": "/Softball-Stats/SoftballStats2.jpg",
+        "image3": "/Softball-Stats/SoftballStats3.jpg",
+        "description": "Softball stat tracker powered by React and C# .Net API. This app allows uses to keep track of players and teams for softball and keeps track of stats for each player.I deployed the API on Microsoft Azure and the front end for this project on GitHub Pages. ",
+        "tools": [
+            "React",
+            "C# .NET API",
+            "JavaScript",
+            "CSS",
+            "Azure"
+        ]
+    },
+    {
         "id": "finsharkAPI",
         "title": "FinShark Api",
         "image1": "/FinShark/finshark1.jpg",
@@ -117,17 +132,6 @@
             "C#",
             "Visual Studio",
             "Windows Forms"
-        ]
-    },
-    {
-        "id": "softballStats",
-        "title": "Softball Stats Web App",
-        "image1": "/Softball-Stats/SoftballStats1.jpg",
-        "image2": "/Softball-Stats/SoftballStats1.jpg",
-        "image3": "/Softball-Stats/SoftballStats1.jpg",
-        "description": "Coming Soon",
-        "tools": [
-            "Coming Soon"
         ]
     }
 ]
