@@ -1,0 +1,137 @@
+[
+    {
+        "id": "softballStats",
+        "title": "Softball Stats Web App",
+        "image1": "/Softball-Stats/SoftballStats1.jpg",
+        "image2": "/Softball-Stats/SoftballStats2.jpg",
+        "image3": "/Softball-Stats/SoftballStats3.jpg",
+        "description": "Softball stat tracker powered by React and C# .Net API. This app allows uses to keep track of players and teams for softball and keeps track of stats for each player.I deployed the API on Microsoft Azure and the front end for this project on GitHub Pages. ",
+        "tools": [
+            "React",
+            "C# .NET API",
+            "JavaScript",
+            "CSS",
+            "Azure"
+        ]
+    },
+    {
+        "id": "finsharkAPI",
+        "title": "FinShark Api",
+        "image1": "/FinShark/finshark1.jpg",
+        "image2": "/FinShark/finshark2.jpg",
+        "image3": "/FinShark/finshark3.jpg",
+        "description": "A Web App that uses stock information from Financial Modeling Prep API that allows users to keep track of their stock portfolio and see information about each company. ",
+        "tools": [
+            "React",
+            "C# .NET API",
+            "Financial Modeling Prep API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "netflixCLone",
+        "title": "Netflix Clone Website",
+        "image1": "/netflix-clone/netflix1.jpg",
+        "image2": "/netflix-clone/netflix2.jpg",
+        "image3": "/netflix-clone/netflix3.jpg",
+        "description": "A website that uses data from the The Movie Database API to create a clone of Netflix. The app uses Google Firebase to handle users allowing for signing up and logging in. ",
+        "tools": [
+            "React",
+            "Google Firebase",
+            "The Movie Database API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "geminiClone",
+        "title": "Google Gemini clone",
+        "image1": "/gemini-clone/gc1.jpg",
+        "image2": "/gemini-clone/gc2.jpg",
+        "image3": "/gemini-clone/gc3.jpg",
+        "description": "A website that mimics the appearance and functionality of the Google Gemini AI. The site uses the Google Gemini API to get responses for the user and uses state to keep track of the prompts.",
+        "tools": [
+            "React",
+            "Google Gemini API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "reactJobs",
+        "title": "React Job Website",
+        "image1": "/react-job-site/react-job1.jpg",
+        "image2": "/react-job-site/react-job2.jpg",
+        "image3": "/react-job-site/react-job3.jpg",
+        "description": "A mock website that acts as a job board for React developer jobs. Uses JSON Server as a mock backend to fetch data about jobs. Has all CRUD functionality for adding, updating, and deleting jobs.",
+        "tools": [
+            "C#",
+            "ASP .NET MVC",
+            "HTML",
+            "Bootstrap/CSS",
+            "Scryfall API"
+        ]
+    },
+    {
+        "id": "scryfall",
+        "title": "Random MTG Card Generator with Scryfall API",
+        "image1": "/ScryfallAPI/Scryfall1.jpg",
+        "image2": "/ScryfallAPI/Scryfall2.jpg",
+        "image3": "/ScryfallAPI/Scryfall3.jpg",
+        "description": "This web app allows the user to find a random card from the Magic the Gathering card game. The app uses Scryfall API to fetch the card data and displays it on the screen.",
+        "tools": [
+            "C#",
+            "ASP .NET MVC",
+            "HTML",
+            "Bootstrap/CSS",
+            "Scryfall API"
+        ]
+    },
+    {
+        "id": "mtgApp",
+        "title": "Magic the Gathering Web application",
+        "image1": "/Mtg-App/Mtg-app1.jpg",
+        "image2": "/Mtg-App/Mtg-app2.jpg",
+        "image3": "/Mtg-App/Mtg-app3.jpg",
+        "description": "This app allows users to create a personal database of their Magic the Gathering cards. Users can enter card information via a form, add them to the database, and edit or delete cards from their collection. The app also provides information about the game, including formats, rules, and where to play.",
+        "tools": [
+            "C#",
+            "ASP .NET MVC",
+            "HTML",
+            "Bootstrap/CSS",
+            "SQL",
+            "SQL Server Management Studio",
+            "Identity Framework"
+        ]
+    },
+    {
+        "id": "greenevilleWalks",
+        "title": "Greeneville Walks website",
+        "image1": "/Greeneville-Walks/gw1.jpg",
+        "image2": "/Greeneville-Walks/gw2.jpg",
+        "image3": "/Greeneville-Walks/gw3.jpg",
+        "description": "This website was a school project for Dr. Griffin at Walter State Community College. The main purpose of the site was to showcase student's work in Botany in the WSCC Herbarium and Symposium. The website also provides information about common trees and shrubs found around the walking trails in Greeneville Tennessee.",
+        "tools": [
+            "HTML",
+            "Bootstrap/CSS/JavaScript",
+            "PHP"
+        ]
+    },
+    {
+        "id": "textAnalyzer",
+        "title": "Text Analyzer GUI",
+        "image1": "/Text-Analyzer/textAnalyzer1.jpg",
+        "image2": "/Text-Analyzer/textAnalyzer2.jpg",
+        "image3": "/Text-Analyzer/textAnalyzer3.jpg",
+        "description": "This app allows users to analyze text to get the number of words, sentences, and unique words that are within the text. The user can type, paste in, or read text from a text file into the analyzer. The app provides the stats and gives the user a way to filter through the stats with a search bar. Users can choose between light, dark, and dark knight mode.",
+        "tools": [
+            "C#",
+            "Visual Studio",
+            "Windows Forms"
+        ]
+    }
+]
