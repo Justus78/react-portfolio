@@ -1,0 +1,61 @@
+[
+    {
+        "id": "softballStats",
+        "title": "Softball Stats Web App",
+        "image1": "/softball-stats/SoftballStats1.jpg",
+        "image2": "/softball-stats/SoftballStats2.jpg",
+        "image3": "/softball-Stats/SoftballStats3.jpg",
+        "description": "Softball stat tracker powered by React and C# .Net API. This app allows uses to keep track of players and teams for softball and keeps track of stats for each player.I deployed the API on Microsoft Azure and the front end for this project on GitHub Pages. ",
+        "tools": [
+            "React",
+            "C# .NET API",
+            "JavaScript",
+            "CSS",
+            "Azure"
+        ]
+    },
+    {
+        "id": "netflixCLone",
+        "title": "Netflix Clone Website",
+        "image1": "/netflix-clone/netflix1.jpg",
+        "image2": "/netflix-clone/netflix2.jpg",
+        "image3": "/netflix-clone/netflix3.jpg",
+        "description": "A website that uses data from the The Movie Database API to create a clone of Netflix. The app uses Google Firebase to handle users allowing for signing up and logging in. ",
+        "tools": [
+            "React",
+            "Google Firebase",
+            "The Movie Database API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "geminiClone",
+        "title": "Google Gemini clone",
+        "image1": "/gemini-clone/gc1.jpg",
+        "image2": "/gemini-clone/gc2.jpg",
+        "image3": "/gemini-clone/gc3.jpg",
+        "description": "A website that mimics the appearance and functionality of the Google Gemini AI. The site uses the Google Gemini API to get responses for the user and uses state to keep track of the prompts.",
+        "tools": [
+            "React",
+            "Google Gemini API",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "greenevilleWalks",
+        "title": "Greeneville Walks website",
+        "image1": "/greeneville-walks/gw1.jpg",
+        "image2": "/greeneville-walks/gw2.jpg",
+        "image3": "/greeneville-walks/gw3.jpg",
+        "description": "This website was a school project for Dr. Griffin at Walter State Community College. The main purpose of the site was to showcase student's work in Botany in the WSCC Herbarium and Symposium. The website also provides information about common trees and shrubs found around the walking trails in Greeneville Tennessee.",
+        "tools": [
+            "HTML",
+            "Bootstrap/CSS/JavaScript",
+            "PHP"
+        ]
+    }
+]
