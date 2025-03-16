@@ -15,22 +15,6 @@
         ]
     },
     {
-        "id": "finsharkAPI",
-        "title": "FinShark Api",
-        "image1": "/FinShark/finshark1.jpg",
-        "image2": "/FinShark/finshark2.jpg",
-        "image3": "/FinShark/finshark3.jpg",
-        "description": "A Web App that uses stock information from Financial Modeling Prep API that allows users to keep track of their stock portfolio and see information about each company. ",
-        "tools": [
-            "React",
-            "C# .NET API",
-            "Financial Modeling Prep API",
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
-    },
-    {
         "id": "netflixCLone",
         "title": "Netflix Clone Website",
         "image1": "/netflix-clone/netflix1.jpg",
@@ -62,53 +46,6 @@
         ]
     },
     {
-        "id": "reactJobs",
-        "title": "React Job Website",
-        "image1": "/react-job-site/react-job1.jpg",
-        "image2": "/react-job-site/react-job2.jpg",
-        "image3": "/react-job-site/react-job3.jpg",
-        "description": "A mock website that acts as a job board for React developer jobs. Uses JSON Server as a mock backend to fetch data about jobs. Has all CRUD functionality for adding, updating, and deleting jobs.",
-        "tools": [
-            "C#",
-            "ASP .NET MVC",
-            "HTML",
-            "Bootstrap/CSS",
-            "Scryfall API"
-        ]
-    },
-    {
-        "id": "scryfall",
-        "title": "Random MTG Card Generator with Scryfall API",
-        "image1": "/ScryfallAPI/Scryfall1.jpg",
-        "image2": "/ScryfallAPI/Scryfall2.jpg",
-        "image3": "/ScryfallAPI/Scryfall3.jpg",
-        "description": "This web app allows the user to find a random card from the Magic the Gathering card game. The app uses Scryfall API to fetch the card data and displays it on the screen.",
-        "tools": [
-            "C#",
-            "ASP .NET MVC",
-            "HTML",
-            "Bootstrap/CSS",
-            "Scryfall API"
-        ]
-    },
-    {
-        "id": "mtgApp",
-        "title": "Magic the Gathering Web application",
-        "image1": "/Mtg-App/Mtg-app1.jpg",
-        "image2": "/Mtg-App/Mtg-app2.jpg",
-        "image3": "/Mtg-App/Mtg-app3.jpg",
-        "description": "This app allows users to create a personal database of their Magic the Gathering cards. Users can enter card information via a form, add them to the database, and edit or delete cards from their collection. The app also provides information about the game, including formats, rules, and where to play.",
-        "tools": [
-            "C#",
-            "ASP .NET MVC",
-            "HTML",
-            "Bootstrap/CSS",
-            "SQL",
-            "SQL Server Management Studio",
-            "Identity Framework"
-        ]
-    },
-    {
         "id": "greenevilleWalks",
         "title": "Greeneville Walks website",
         "image1": "/Greeneville-Walks/gw1.jpg",
@@ -119,19 +56,6 @@
             "HTML",
             "Bootstrap/CSS/JavaScript",
             "PHP"
-        ]
-    },
-    {
-        "id": "textAnalyzer",
-        "title": "Text Analyzer GUI",
-        "image1": "/Text-Analyzer/textAnalyzer1.jpg",
-        "image2": "/Text-Analyzer/textAnalyzer2.jpg",
-        "image3": "/Text-Analyzer/textAnalyzer3.jpg",
-        "description": "This app allows users to analyze text to get the number of words, sentences, and unique words that are within the text. The user can type, paste in, or read text from a text file into the analyzer. The app provides the stats and gives the user a way to filter through the stats with a search bar. Users can choose between light, dark, and dark knight mode.",
-        "tools": [
-            "C#",
-            "Visual Studio",
-            "Windows Forms"
         ]
     }
 ]

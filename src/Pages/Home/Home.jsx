@@ -2,20 +2,27 @@ import React from 'react'
 import Navbar from '../../Components/Navbar/Navbar'
 import Footer from '../../Components/Footer/Footer'
 import './Home.css';
-import { Link } from 'react-router-dom';
-import projectsData from '../../assets/project-details.json'
+import About from '../../Components/About';
+import Contact from '../../Components/Contact';
+import Header from '../../Components/Header'
+import Work from '../../Components/Work'
+import { HashLink as Link } from 'react-router-hash-link';
 
 
-const Home = () => {
-
+const Home = ( {isDarkMode, setIsDarkMode} ) => {
   return (
     <div>
-      <Navbar />
-
-        {/* Hero section with text and description */}
+      <Navbar isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />
+      <Header isDarkMode={isDarkMode} />
+      <About isDarkMode={isDarkMode} />
+      {/*<Services isDarkMode={isDarkMode} />*/}
+      <Work isDarkMode={isDarkMode} />
+      <Contact isDarkMode={isDarkMode} />
+      <Footer />
+        {/* 
         <section className="py-5 text-center container">
-          <div className="row py-lg-5"> {/*} Large padding for vertical spacing */}
-            <div className="col-lg-6 col-md-8 mx-auto"> {/*} Centered column of text, responsive size (6/12 for large, 8/12 for medium) */}
+          <div className="row py-lg-5"> 
+            <div className="col-lg-6 col-md-8 mx-auto"> 
               <h1 className="fw-light">My Projects</h1>
               <p className="lead text-muted">
                 Below is a collection of my projects. Most were completed using ASP .NET MVC or as desktop applications.
@@ -51,7 +58,6 @@ const Home = () => {
                     </ul>
                     <div className="d-flex justify-content-between align-items-center">
                       <div className="btn-group">
-                        {/* Link using the project's id */}
                         <Link to={`/ProjectDetails/${project.id}`} className="btn btn-primary">See More</Link>
                       </div>
                     </div>
@@ -61,9 +67,9 @@ const Home = () => {
             ))}
           </div>
         </div>
-      </div>
+      </div> */}
 
-      <Footer />
+      
     </div>
   )
 }
