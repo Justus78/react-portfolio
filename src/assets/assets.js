@@ -38,6 +38,9 @@ import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import azure_logo from './Azure.jpg'
 import react_logo from './React-logo.jpg'
 import c_sharp_logo from './c-sharp-logo.jpg'
+import github_logo from './github-logo.png'
+import linkedIn_logo from './linkedIn-logo.png'
+
 
 export const assets = {
     user_image,
@@ -79,7 +82,9 @@ export const assets = {
     right_arrow_bold_dark,
     azure_logo,
     react_logo,
-    c_sharp_logo
+    c_sharp_logo,
+    github_logo,
+    linkedIn_logo
 };
 
 export const workData = [
