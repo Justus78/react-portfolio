@@ -1,6 +1,8 @@
 import { assets } from '../assets/assets'
 import React from 'react'
 import { motion } from "motion/react"
+import { HashLink as Link } from 'react-router-hash-link'
+
 
 
 const Header = ({ isDarkMode }) => {
@@ -45,17 +47,17 @@ const Header = ({ isDarkMode }) => {
 
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
 
-            <motion.a
+            <Link
                 initial={{y: 30, opacity: 0}}
                 whileInView={{y: 0, opacity: 1}}
                 transition={{duration: 0.6, delay: 1}}
-                href="#contact"
+                to="/#contact"
                 className={`px-10 py-2 border border-white rounded-full bg-black
                 text-white flex items-center justify-center gap-2 ${isDarkMode ? 'bg-white' : ''}`}>
                     <p className={`${isDarkMode ? 'text-black' : 'text-white'} m-1 p-1`}>Contact Me</p> 
                     <img src={isDarkMode ? assets.right_arrow_bold : assets.right_arrow_white} alt='' 
                 className='w-4' /> 
-            </motion.a>
+            </Link>
 
             <motion.a
                 initial={{y: 30, opacity: 0}}

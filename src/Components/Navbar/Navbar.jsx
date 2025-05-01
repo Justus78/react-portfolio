@@ -58,12 +58,12 @@ const Navbar = ( {isDarkMode, setIsDarkMode} ) => {
                     <img src={isDarkMode ? assets.sun_icon : assets.moon_icon} alt=''  className='w-6'/>
                 </button>
 
-                <a href="/#contact" className={`font-Ovo hidden lg:flex items-center gap-3 px-10
+                <Link to="/#contact" className={`font-Ovo hidden lg:flex items-center gap-3 px-10
                 py-2.5 border border-gray-500 rounded-full ml-4 text-black ${isDarkMode ? 'bg-white': ''}`}
                 >
                     Contact 
                     <img src={assets.arrow_icon} className='w-3' alt=''/>
-                </a>
+                </Link>
 
                 <button className='block md:hidden mx-2' onClick={openMenu}>
                 <img src={assets.menu_black} alt=''  className='w-6'/>
