@@ -4,7 +4,7 @@ import Footer from '../../Components/Footer/Footer'
 import matt_profile from '../../assets/Matt-Images/matt_profile.jpg'
 import joke_photo from '../../assets/Matt-Images/HiringJoke.jpg'
 import "./About.css"
-import resume from '../../assets/Matt-Justus-Resume.pdf'
+import resume from '/Matt-Justus-Resume.pdf'
 
 
 const About = () => {

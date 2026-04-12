@@ -1,7 +1,5 @@
 import React from 'react'
 import { HashLink as Link } from 'react-router-hash-link'
-import Matt_profile from '../../assets/Matt-Images/matt_profile.jpg'
-import resume from '../../assets/Matt-Justus-Resume.pdf'
 import react_logo from '../../assets/react.svg'
 import { useEffect, useState, useRef } from 'react'
 import { assets } from '../../assets/assets'
