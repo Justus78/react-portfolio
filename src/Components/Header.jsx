@@ -63,7 +63,7 @@ const Header = ({ isDarkMode }) => {
                 initial={{y: 30, opacity: 0}}
                 whileInView={{y: 0, opacity: 1}}
                 transition={{duration: 0.6, delay: 1}}
-                href="/Matt-Justus-Resume.pdf" download 
+                href="/Resume-Matt-Justus.pdf" download 
                 className={`px-10 py-4 border rounded-full border-gray=500
                 flex items-center justify-center gap-2 ${isDarkMode ? 'bg-white text-black' : ''}`}>
                 My Resume <img src={assets.download_icon} alt='download icon' className='w-4' />
